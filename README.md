@@ -1,2 +1,2 @@
-# react-introduction-codeSandbox
+# react-app-codesandbox
 Created with CodeSandbox
